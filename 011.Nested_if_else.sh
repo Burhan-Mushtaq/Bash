@@ -13,7 +13,7 @@ then
     then
         echo "$a is Greatest"
     else
-        echo "$b is Greatest"
+        echo "$c is Greatest"
     fi
 else
     if [ $b -gt $a ]
